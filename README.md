@@ -1,6 +1,10 @@
 # 100DaysOfCode
 #100DaysOfCode | https://www.100daysofcode.com/ | Started: 2022-11-21 | Optimal End: 2023-03-01 | Actual End: ___ | corey-richardson
 
+Goals: Increase my knowledge on Python. Learn other languages such as the C family, C/C++/C#, Gain confidence in MATLAB scripting
+
+Resources I could use: Codecademy, Mathworks Academy, freeCodeCamp.org, Linkedin Learning, Youtube, FutureLearn
+
 Day 1:  Create script to automate readMe files day numbers, Mathworks Matlab Signal Processing Onramp Course | 2022-11-21
 
 Day 2:
