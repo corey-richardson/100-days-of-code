@@ -5,6 +5,8 @@ Goals: Increase my knowledge on Python. Learn other languages such as the C fami
 
 Resources I could use: Codecademy, Mathworks Academy, freeCodeCamp.org, Linkedin Learning, Youtube, FutureLearn
 
+Ideas: Complete a few youtube projects to get experience of product lifecycle, learn pathfinding algorithms, search/sort algorithms, generic CompSci
+
 Day 1:  Create script to automate readMe files day numbers, Mathworks Matlab Signal Processing Onramp Course, Fourier Transform with Python | 2022-11-21
 
 Day 2:
