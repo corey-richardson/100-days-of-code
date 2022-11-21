@@ -1,5 +1,5 @@
 # 100DaysOfCode
-#100DaysOfCode | https://www.100daysofcode.com/
+#100DaysOfCode | https://www.100daysofcode.com/ | Started: 2022-11-21 | Optimal End: 2023-03-01 | Actual End: N/A | corey-richardson
 
 Day 1:  Create script to automate readMe files day numbers, Mathworks Matlab Signal Processing Onramp Course | 2022-11-21
 
