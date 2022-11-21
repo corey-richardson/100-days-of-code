@@ -1,7 +1,7 @@
 # 100DaysOfCode
 #100DaysOfCode | https://www.100daysofcode.com/
 
-Day 1:  Create script to automate readMe files day numbers, Mathworks Matlab Signal Processing Onramp Course
+Day 1:  Create script to automate readMe files day numbers, Mathworks Matlab Signal Processing Onramp Course | 2022-11-21
 
 Day 2:
 
