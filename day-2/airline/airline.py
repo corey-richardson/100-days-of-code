@@ -67,7 +67,7 @@ sns.boxplot(x=flight.delay[flight.delay < 60], data=flight,ax=ax3n4)
 
 # scatterplots on the same axis showing clusters of coach prices and first class prices
 sns.scatterplot(data=flight,x=flight.coach_price,y=flight.miles,ax=ax5)
-sns.scatterplot(data=flight,x=flight.firstclass_price,y=flight.miles,color="gold",ax=ax5)
+sns.scatterplot(data=flight,x=flight.firstclass_price,y=flight.miles,color="orange",ax=ax5)
 ax5.set_xlabel("Price")
 ax5.set_ylabel("Distance (miles)")
 ax5.set_title("Coach Prices vs First Class Prices")
