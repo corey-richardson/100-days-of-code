@@ -9,7 +9,7 @@ Ideas: Complete a few youtube projects to get experience of product lifecycle, l
 
 Day 1:  Create script to automate readMe files day numbers, Mathworks Matlab Signal Processing Onramp Course, Fourier Transform with Python | 2022-11-21
 
-Day 2:
+Day 2: Working through the Exploratory Data Analyis section of the Data Scientist: Machine Learning Specialist Career Path on Codecademy | 2022-11-22
 
 Day 3:
 
