@@ -7,9 +7,9 @@ Resources I could use: Codecademy, Mathworks Academy, freeCodeCamp.org, Linkedin
 
 Ideas: Complete a few youtube projects to get experience of product lifecycle, learn pathfinding algorithms, search/sort algorithms, generic CompSci
 
-Day 1:  Create script to automate readMe files day numbers, Mathworks Matlab Signal Processing Onramp Course, Fourier Transform with Python | 2022-11-21
+Day 1:  Create script to automate readMe files day numbers; Mathworks Matlab Signal Processing Onramp Course; Fourier Transform with Python | 2022-11-21
 
-Day 2: Working through the Exploratory Data Analyis section of the Data Scientist: Machine Learning Specialist Career Path on Codecademy | 2022-11-22
+Day 2: Working through the Exploratory Data Analyis section of the Data Scientist: Machine Learning Specialist Career Path on Codecademy; "Airline Analysis" Codecademy project using Pandas, Matplotlib and Seaborn to plot graphs comparing the prices of airline tickets, e.g. coach vs first class, weekday vs weekend, wifi vs no wifi, and more | 2022-11-22
 
 Day 3:
 
