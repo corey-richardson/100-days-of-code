@@ -15,7 +15,7 @@ Day 3: Working through [Mathworks MATLAB Fundamental Course](https://matlabacade
 
 Day 4: [CS50P](https://cs50.harvard.edu/python/2022/) Week 6 File I/O [CS50 P-Shirt](https://cs50.harvard.edu/python/2022/psets/6/shirt/), Week 7 Regular Expressions [NUMB3RS](https://cs50.harvard.edu/python/2022/psets/7/numb3rs/) | Codecademy's Learn C Course [Dates and Switches](https://www.codecademy.com/courses/learn-c/projects/dates-and-switches-c) | Created a [Number Guesser Game](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-4/number-guesser) in C | 2022-11-24
 
-Day 5: Working through [Mathworks MATLAB Fundamental Course](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&) | Codecademy's Learn C Course | 2022-11-25
+Day 5: Working through Mathworks MATLAB Fundamental Course | Codecademy's Learn C Course | 2022-11-25
 
 Day 6:
 
