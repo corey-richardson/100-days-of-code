@@ -15,7 +15,7 @@ Day 3: Working through [Mathworks MATLAB Fundamental Course](https://matlabacade
 
 Day 4: CS50P Week 6 File I/O [CS50 P-Shirt](https://cs50.harvard.edu/python/2022/psets/6/shirt/), Week 7 Regular Expressions [NUMB3RS](https://cs50.harvard.edu/python/2022/psets/7/numb3rs/) | Codecademy's Learn C Course [Dates and Switches](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-4/dates-and-switches) | Created a [Number Guesser Game](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-4/number-guesser) in C | 2022-11-24
 
-Day 5: Working through Mathworks MATLAB Fundamental Course | Codecademy's Learn C Course | Raspberry Pi Pico [MicroPython Tutorial](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi_Pico/blob/master/Python/Python_Tutorial.pdf) [button.py](https://github.com/corey-richardson/100DaysOfCode/blob/main/day-5/Pico/button.py), added coloured on/off indicator to the console log | 2022-11-25
+Day 5: Working through Mathworks MATLAB Fundamental Course | Codecademy's Learn C Course | Raspberry Pi Pico [MicroPython Tutorial](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi_Pico/blob/master/Python/Python_Tutorial.pdf) [button.py](https://github.com/corey-richardson/100DaysOfCode/blob/main/day-5/Pico/button.py), added coloured on/off indicator to the console log | Programmed a Raspberry Pi Pico to flash an LED in [morse code](https://github.com/corey-richardson/100DaysOfCode/blob/main/day-5/Pico/morse_code.py) based on a pre-set message | 2022-11-25
 
 Day 6:
 
