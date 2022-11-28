@@ -19,7 +19,7 @@ Day 5: Working through Mathworks MATLAB Fundamentals Course | Codecademy's Learn
 
 Day 6: Wrote a [Python Pandas Script](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-6) to sort and total data requested from Amazon Order History, I regret doing this. | 2022-11-27
 
-Day 7: Mathworks MATLAB Fundamentals Course: Visualizing Data in 2D and 3D | Codecademy's Learn C Course: Loops and Errors | [FizzBuzz](https://github.com/corey-richardson/small-practice-projects/tree/main/fun-and-games/fizzbuzz) in Python and C | 2022-11-27
+Day 7: Mathworks MATLAB Fundamentals Course: Visualizing Data in 2D and 3D | Codecademy's Learn C Course: Loops and Errors, Arrays and Strings | [FizzBuzz](https://github.com/corey-richardson/small-practice-projects/tree/main/fun-and-games/fizzbuzz) in Python and C | 2022-11-27
 
 Day 8:
 
