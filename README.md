@@ -19,7 +19,7 @@ Day 5: Working through Mathworks MATLAB Fundamentals Course | Codecademy's Learn
 
 Day 6: Wrote a [Python Pandas Script](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-6) to sort and total data requested from Amazon Order History, I regret doing this. | 2022-11-27
 
-Day 7: Mathworks MATLAB Fundamentals Course: Visualizing Data in 2D and 3D, Conditional Data Selection | Codecademy's Learn C Course: Loops and Errors, Arrays and Strings | [FizzBuzz](https://github.com/corey-richardson/small-practice-projects/tree/main/fun-and-games/fizzbuzz) in Python and C | Re-made my [GCSE Coursework Dice Game](https://github.com/corey-richardson/dice-game-gcsecompsci-coursework/tree/main/gcse-dice-game-coursework-redo) 3 years after the initial version| 2022-11-27
+Day 7: Mathworks MATLAB Fundamentals Course: Visualizing Data in 2D and 3D, Conditional Data Selection | Codecademy's Learn C Course: Loops and Errors, Arrays and Strings | [FizzBuzz](https://github.com/corey-richardson/small-practice-projects/tree/main/fun-and-games/fizzbuzz) in Python and C | Re-made my [GCSE Coursework Dice Game](https://github.com/corey-richardson/dice-game-gcsecompsci-coursework/tree/main/gcse-dice-game-coursework-redo) 3 years after the initial version | 2022-11-27
 
 Day 8:
 
