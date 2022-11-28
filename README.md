@@ -11,15 +11,15 @@ Day 1:  Create script to automate readMe files day numbers; [Mathworks Matlab Si
 
 Day 2: Working through the Exploratory Data Analyis section of the [Data Scientist: Machine Learning Specialist](https://www.codecademy.com/learn/paths/data-science) Career Path on Codecademy; [Airline Analysis](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-2/airline) Codecademy project using Pandas, Matplotlib and Seaborn to plot graphs comparing the prices of airline tickets, e.g. coach vs first class, weekday vs weekend, wifi vs no wifi, and more | 2022-11-22
 
-Day 3: Working through [Mathworks MATLAB Fundamentals Course](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&) | Restarting Codecademy's Learn C Course, [Hello World!](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-3/hello-world) | 2022-11-23
+Day 3: Working through [Mathworks MATLAB Fundamentals Course](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&) | Restarting Codecademy's Learn C Course: [Hello World!](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-3/hello-world) | 2022-11-23
 
-Day 4: CS50P Week 6 File I/O [CS50 P-Shirt](https://cs50.harvard.edu/python/2022/psets/6/shirt/), Week 7 Regular Expressions [NUMB3RS](https://cs50.harvard.edu/python/2022/psets/7/numb3rs/) | Codecademy's Learn C Course [Dates and Switches](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-4/dates-and-switches) | Created a [Number Guesser Game](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-4/number-guesser) in C | 2022-11-24
+Day 4: CS50P Week 6 File I/O [CS50 P-Shirt](https://cs50.harvard.edu/python/2022/psets/6/shirt/), Week 7 Regular Expressions [NUMB3RS](https://cs50.harvard.edu/python/2022/psets/7/numb3rs/) | Codecademy's Learn C Course: [Dates and Switches](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-4/dates-and-switches) | Created a [Number Guesser Game](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-4/number-guesser) in C | 2022-11-24
 
 Day 5: Working through Mathworks MATLAB Fundamentals Course | Codecademy's Learn C Course | Raspberry Pi Pico [MicroPython Tutorial](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi_Pico/blob/master/Python/Python_Tutorial.pdf) [button.py](https://github.com/corey-richardson/100DaysOfCode/blob/main/day-5/Pico/button.py), added coloured on/off indicator to the console log | Programmed a Raspberry Pi Pico to flash an LED in [morse code](https://github.com/corey-richardson/100DaysOfCode/blob/main/day-5/Pico/morse_code.py) based on a pre-set message | 2022-11-25
 
 Day 6: Wrote a [Python Pandas Script](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-6) to sort and total data requested from Amazon Order History, I regret doing this. | 2022-11-27
 
-Day 7: Mathworks MATLAB Fundamentals Course: Visualizing Data in 2D and 3D | Codecademy's Learn C Course Loops and Errors | [FizzBuzz](https://github.com/corey-richardson/small-practice-projects/tree/main/fun-and-games/fizzbuzz) in Python and C | 2022-11-27
+Day 7: Mathworks MATLAB Fundamentals Course: Visualizing Data in 2D and 3D | Codecademy's Learn C Course: Loops and Errors | [FizzBuzz](https://github.com/corey-richardson/small-practice-projects/tree/main/fun-and-games/fizzbuzz) in Python and C | 2022-11-27
 
 Day 8:
 
