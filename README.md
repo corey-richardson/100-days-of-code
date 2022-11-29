@@ -1,8 +1,8 @@
-#100DaysOfCode | https://www.100daysofcode.com/ 
+#100DaysOfCode | www.100daysofcode.com/
 
 Started: 2022-11-21 | Optimal End: 2023-03-01 | Actual End: ___ 
 
-corey-richardson | linktr.ee/coreyrichardson 
+corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson)
 
 ----
 
