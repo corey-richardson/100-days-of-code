@@ -1,200 +1,1108 @@
-Day 1:
+#100DaysOfCode | https://www.100daysofcode.com/ 
 
-Day 2:
+Started: 2022-11-21 | Optimal End: 2023-03-01 | Actual End: ___ 
 
-Day 3:
+corey-richardson | linktr.ee/coreyrichardson 
 
-Day 4:
+----
 
-Day 5:
+### Day 0: 
 
-Day 6:
+**Today's Tasks and Progress:**
 
-Day 7:
+**About:**
 
-Day 8:
+**Links:** 1. []()
 
-Day 9:
 
-Day 10:
 
-Day 11:
 
-Day 12:
+### Day 1: 
 
-Day 13:
+**Today's Tasks and Progress:**
 
-Day 14:
+**About:**
 
-Day 15:
+**Links:** 1. []()
 
-Day 16:
 
-Day 17:
 
-Day 18:
 
-Day 19:
+### Day 2: 
 
-Day 20:
+**Today's Tasks and Progress:**
 
-Day 21:
+**About:**
 
-Day 22:
+**Links:** 1. []()
 
-Day 23:
 
-Day 24:
 
-Day 25:
 
-Day 26:
+### Day 3: 
 
-Day 27:
+**Today's Tasks and Progress:**
 
-Day 28:
+**About:**
 
-Day 29:
+**Links:** 1. []()
 
-Day 30:
 
-Day 31:
 
-Day 32:
 
-Day 33:
+### Day 4: 
 
-Day 34:
+**Today's Tasks and Progress:**
 
-Day 35:
+**About:**
 
-Day 36:
+**Links:** 1. []()
 
-Day 37:
 
-Day 38:
 
-Day 39:
 
-Day 40:
+### Day 5: 
 
-Day 41:
+**Today's Tasks and Progress:**
 
-Day 42:
+**About:**
 
-Day 43:
+**Links:** 1. []()
 
-Day 44:
 
-Day 45:
 
-Day 46:
 
-Day 47:
+### Day 6: 
 
-Day 48:
+**Today's Tasks and Progress:**
 
-Day 49:
+**About:**
 
-Day 50:
+**Links:** 1. []()
 
-Day 51:
 
-Day 52:
 
-Day 53:
 
-Day 54:
+### Day 7: 
 
-Day 55:
+**Today's Tasks and Progress:**
 
-Day 56:
+**About:**
 
-Day 57:
+**Links:** 1. []()
 
-Day 58:
 
-Day 59:
 
-Day 60:
 
-Day 61:
+### Day 8: 
 
-Day 62:
+**Today's Tasks and Progress:**
 
-Day 63:
+**About:**
 
-Day 64:
+**Links:** 1. []()
 
-Day 65:
 
-Day 66:
 
-Day 67:
 
-Day 68:
+### Day 9: 
 
-Day 69:
+**Today's Tasks and Progress:**
 
-Day 70:
+**About:**
 
-Day 71:
+**Links:** 1. []()
 
-Day 72:
 
-Day 73:
 
-Day 74:
 
-Day 75:
+### Day 10: 
 
-Day 76:
+**Today's Tasks and Progress:**
 
-Day 77:
+**About:**
 
-Day 78:
+**Links:** 1. []()
 
-Day 79:
 
-Day 80:
 
-Day 81:
 
-Day 82:
+### Day 11: 
 
-Day 83:
+**Today's Tasks and Progress:**
 
-Day 84:
+**About:**
 
-Day 85:
+**Links:** 1. []()
 
-Day 86:
 
-Day 87:
 
-Day 88:
 
-Day 89:
+### Day 12: 
 
-Day 90:
+**Today's Tasks and Progress:**
 
-Day 91:
+**About:**
 
-Day 92:
+**Links:** 1. []()
 
-Day 93:
 
-Day 94:
 
-Day 95:
 
-Day 96:
+### Day 13: 
 
-Day 97:
+**Today's Tasks and Progress:**
 
-Day 98:
+**About:**
 
-Day 99:
+**Links:** 1. []()
 
-Day 100:
+
+
+
+### Day 14: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 15: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 16: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 17: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 18: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 19: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 20: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 21: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 22: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 23: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 24: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 25: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 26: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 27: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 28: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 29: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 30: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 31: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 32: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 33: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 34: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 35: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 36: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 37: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 38: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 39: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 40: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 41: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 42: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 43: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 44: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 45: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 46: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 47: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 48: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 49: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 50: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 51: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 52: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 53: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 54: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 55: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 56: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 57: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 58: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 59: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 60: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 61: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 62: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 63: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 64: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 65: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 66: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 67: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 68: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 69: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 70: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 71: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 72: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 73: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 74: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 75: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 76: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 77: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 78: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 79: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 80: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 81: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 82: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 83: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 84: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 85: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 86: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 87: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 88: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 89: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 90: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 91: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 92: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 93: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 94: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 95: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 96: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 97: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 98: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
+
+### Day 99: 
+
+**Today's Tasks and Progress:**
+
+**About:**
+
+**Links:** 1. []()
+
+
+
 
