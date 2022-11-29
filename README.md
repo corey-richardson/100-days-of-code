@@ -88,7 +88,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 
 **About:** Fizzbuzz is a common technical interview question where a for loop will iterate from 1-n (n is 1000 in this case) and if the number is divisible by 3 it will output "Fizz", if the number is divisibile by 5 it will output "Buzz", if it is divisible by 15 it will output "FizzBuzz" and if it is not divisible by any of these numbers it will simply output the number. | When I first wrote my GCSE Coursework 3 years prior I had no idea about object oriented programming. To consolidate my confidence with this topic I decided to rewrite it using this programming paradigm. Criteria: points rolled on each player’s dice are added to their score, add 10 points if the total is even, subtract 5 if odd, if the user rolls a double they get an additional dice roll, score cannot fall below zero (forgot to add this one oops), person with the highest score after 5 rounds wins (i did 10 rounds, twice the fun), if both players have the same score at the end then they each get another roll until a winner is decided. GOOFS: I set the random number generator to choose between 0 and 6, a dice does not have a zero face.
 
-**Links:** [fizzbuzz](https://github.com/corey-richardson/small-practice-projects/tree/main/fun-and-games/fizzbuzz) | [gcse-coursework-rewrite]((https://github.com/corey-richardson/dice-game-gcsecompsci-coursework/tree/main/gcse-dice-game-coursework-redo))
+**Links:** [fizzbuzz](https://github.com/corey-richardson/small-practice-projects/tree/main/fun-and-games/fizzbuzz) | [gcse-coursework-rewrite](https://github.com/corey-richardson/dice-game-gcsecompsci-coursework/tree/main/gcse-dice-game-coursework-redo)
 
 
 
