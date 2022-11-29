@@ -100,7 +100,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 
 **About:** I remade the "read me setup" script in order to provide a better UI / form factor for the text you are currently reading. Also added a second script,  "links.py", which automated the process of setting the shortcut links via iteration.
 
-**Links:**[matlab-fundamentals-course-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&)
+**Links:** [matlab-fundamentals-course-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&)
 
 
 
