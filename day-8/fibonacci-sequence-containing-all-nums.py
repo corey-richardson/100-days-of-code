@@ -47,3 +47,5 @@ print(valid)
 #                     11|
 #                      12
 # Could be used for cryptography maybe?
+# e.g 8 6 4 --> 8 11 3
+# or 2 9 1 1 2 0 2 2 --> 0 10 9 9 0 2 0 0
