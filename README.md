@@ -6,7 +6,8 @@ corey-richardson | linktr.ee/coreyrichardson
 
 ----
 
-### Day 1: 21/11/2022
+### Day 1: 
+21/11/2022
 
 **Today's Tasks and Progress:** Created a script to automate the readme file formatting | Mathwork's MATLAB Signal Processing Onramp Course | Fourier Transforms with Python
 
@@ -17,7 +18,8 @@ corey-richardson | linktr.ee/coreyrichardson
 
 
 
-### Day 2: 22/11/2022
+### Day 2: 
+22/11/2022
 
 **Today's Tasks and Progress:** Codecademy's Data Scientist: Machine Learning Specialist Career Path: Exploratory Data Analysis | Airline Analysis Project
 
@@ -28,7 +30,8 @@ corey-richardson | linktr.ee/coreyrichardson
 
 
 
-### Day 3: 23/11/2022
+### Day 3: 
+23/11/2022
 
 **Today's Tasks and Progress:** Mathwork's MATLAB Fundamentals Course | Restarting Codecademy's Learn C Course
 
@@ -39,7 +42,8 @@ corey-richardson | linktr.ee/coreyrichardson
 
 
 
-### Day 4: 24/11/2022
+### Day 4: 
+24/11/2022
 
 **Today's Tasks and Progress:** CS50P Week 6 File I/O | CS50P Week 7 Regular Expressions | Codecademy's Learn C Course | Created a number guesser game using C
 
@@ -50,7 +54,8 @@ corey-richardson | linktr.ee/coreyrichardson
 
 
 
-### Day 5: 25/11/2022
+### Day 5: 
+25/11/2022
 
 **Today's Tasks and Progress:** Mathwork's MATLAB Fundamentals Course | Codecademy's Learn C Course | Freenove's Micropython for Raspberry Pi Pico Tutorial
 
@@ -61,7 +66,8 @@ corey-richardson | linktr.ee/coreyrichardson
 
 
 
-### Day 6: 27/11/2022
+### Day 6: 
+27/11/2022
 
 **Today's Tasks and Progress:** Amazon Order History Data Data Analysis
 
@@ -72,7 +78,8 @@ corey-richardson | linktr.ee/coreyrichardson
 
 
 
-### Day 7: 28/11/2022
+### Day 7: 
+28/11/2022
 
 **Today's Tasks and Progress:** Mathworks MATLAB Fundamentals Course: Visualizing Data in 2D and 3D, Conditional Data Selection | Codecademy's Learn C Course: Loops and Errors, Arrays and Strings | FizzBuzz in Python and C | Rewrote my GCSE Computer Science "Dice Game" Coursework
 
@@ -83,7 +90,8 @@ corey-richardson | linktr.ee/coreyrichardson
 
 
 
-### Day 8: 29/11/2022
+### Day 8: 
+29/11/2022
 
 **Today's Tasks and Progress:** Mathworks MATLAB Fundamentals Course: Review Project I, Tables of Data
 
