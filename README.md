@@ -100,9 +100,9 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 
 **Today's Tasks and Progress:** Mathworks MATLAB Fundamentals Course: Review Project I, Tables of Data | Redo of the read me setup script
 
-**About:** I remade the "read me setup" script in order to provide a better UI / form factor for the text you are currently reading. Also added a second script,  "links.py", which automated the process of setting the shortcut links via iteration.
+**About:** I remade the "read me setup" script in order to provide a better UI / form factor for the text you are currently reading. Also added a second script,  "links.py", which automated the process of setting the shortcut links via iteration | The Fibonacci sequence script generates the sequence and also checks if the number generated contains all values between 0-9. If it does contain these then it gets appended to a list alongside it's term number / index.
 
-**Links:** [matlab-fundamentals-course-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&) | [read-me-setup](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-1/read-me-setup)
+**Links:** [day-8](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-8) | [matlab-fundamentals-course-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&) | [read-me-setup](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-1/read-me-setup) | [fibonacci-sequence-containing-all-nums](https://github.com/corey-richardson/100DaysOfCode/blob/main/day-8/fibonacci-sequence-containing-all-nums.py)
 
 
 
