@@ -98,7 +98,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 ### Day 8: 
 29/11/2022
 
-**Today's Tasks and Progress:** Mathworks MATLAB Fundamentals Course: Review Project I, Tables of Data | Redo of the read me setup script
+**Today's Tasks and Progress:** Mathworks MATLAB Fundamentals Course: Review Project I, Tables of Data | Redo of the read me setup script | Find numbers from Fibonacci's Sequence containing all digits from 0-9
 
 **About:** I remade the "read me setup" script in order to provide a better UI / form factor for the text you are currently reading. Also added a second script,  "links.py", which automated the process of setting the shortcut links via iteration | The Fibonacci sequence script generates the sequence and also checks if the number generated contains all values between 0-9. If it does contain these then it gets appended to a list alongside it's term number / index.
 
