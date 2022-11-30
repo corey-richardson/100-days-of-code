@@ -38,7 +38,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 ### Day 3: 
 23/11/2022
 
-**Today's Tasks and Progress:** Mathwork's MATLAB Fundamentals Course | Restarting Codecademy's Learn C Course
+**Today's Tasks and Progress:** Mathwork's MATLAB Fundamentals Course: Introduction, Using the MATLAB Desktop, Creating and Manipulating Arrays | Restarting Codecademy's Learn C Course
 
 **About:** I have done Codecademy's C Course before however I've not looked at any C since then so wanted to refresh myself. After I complete this course I plan to look at CS50X to go more in depth with C. I also intend to take courses for C++ and C#.
 
@@ -62,7 +62,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 ### Day 5: 
 25/11/2022
 
-**Today's Tasks and Progress:** Mathwork's MATLAB Fundamentals Course | Codecademy's Learn C Course | Freenove's Micropython for Raspberry Pi Pico Tutorial
+**Today's Tasks and Progress:** Mathwork's MATLAB Fundamentals Course: Accessing Data in Arrays, Mathematical and Statistical Operations with Arrays | Codecademy's Learn C Course | Freenove's Micropython for Raspberry Pi Pico Tutorial
 
 **About:**
 
@@ -74,7 +74,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 ### Day 6: 
 27/11/2022
 
-**Today's Tasks and Progress:** Amazon Order History Data Data Analysis
+**Today's Tasks and Progress:** Amazon Order History Data Statistical Data Analysis
 
 **About:** Wrote a script using Python's Pandas Package which takes in a CSV file containing Amazon order history and calculates the total price.
 
