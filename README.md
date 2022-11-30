@@ -110,7 +110,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 ### Day 9: 
 30/11/2022
 
-**Today's Tasks and Progress:** Mathworks MATLAB Fundamentals Course: Organizing Tabular Data
+**Today's Tasks and Progress:** Mathworks MATLAB Fundamentals Course: Organizing Tabular Data, Specialized Data Types
 
 **About:**
 
