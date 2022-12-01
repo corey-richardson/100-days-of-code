@@ -11,6 +11,34 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 **Shortcuts: [day-10](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-10) [day-20](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-20) [day-30](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-30) [day-40](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-40) [day-50](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-50) [day-60](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-60) [day-70](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-70) [day-80](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-80) [day-90](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-90) [day-100](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-100)**
 
 ----
+
+## Courses Links TODO
+
+**Python**
+- [CS50P: CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) ```in progress```
+- [Codeacademy's Learn Intermediate Python 3](https://www.codecademy.com/learn/learn-intermediate-python-3) ```in progress```
+- [Codecademy's Data Scientist: Machine Learning Specialist Career Path](https://www.codecademy.com/learn/paths/data-science) ```in progress```
+- [Codecademy's Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science) ```in progress```
+
+**MATLAB**
+- [Mathworks MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) ```completed```
+- [Mathworks MATLAB Object-Oriented Programming Onramp](https://matlabacademy.mathworks.com/details/object-oriented-programming-onramp/oroop) ```completed```
+- [Mathworks MATLAB Signal Processing Onramp](https://matlabacademy.mathworks.com/details/signal-processing-onramp/signalprocessing) ```completed```
+- [Mathworks MATLAB Fundamentals Course](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe) ```in progress```
+- [Mathworks MATLAB Fundamentals Course](https://matlabacademy.mathworks.com/details/matlab-for-data-processing-and-visualization/mlvi)
+- [Mathworks MATLAB Machine Learning Onramp](https://matlabacademy.mathworks.com/details/machine-learning-onramp/machinelearning)
+- [Mathworks Machine Learning with MATLAB](https://matlabacademy.mathworks.com/details/machine-learning-with-matlab/mlml)
+- [freeCodeCamp.org's MATLAB Crash Course for Beginners](https://youtu.be/7f50sQYjNRA)
+
+**C / C++ / C#**
+- [CS50X: CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) Includes C, Python, SQL, HTML, CSS, Javascript, Flask
+- [Codecademy's Learn C](https://www.codecademy.com/learn/learn-c) ```in progress``` ```previously completed```
+- [Codecademy's Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
+- [Codecademy's Learn C++ for Programmers](https://www.codecademy.com/learn/c-plus-plus-for-programmers)
+- [Codecademy's Learn C#](https://www.codecademy.com/learn/learn-c-sharp)
+
+
+----
 ### Day 1: 
 21/11/2022
 
