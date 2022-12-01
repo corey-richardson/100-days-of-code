@@ -1146,6 +1146,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 
 **Links:** []()
 
+---
 
 [top-of-page](https://github.com/corey-richardson/100-days-of-code/edit/main/README.md#100-days-of-code)
 
