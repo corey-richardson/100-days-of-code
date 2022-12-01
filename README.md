@@ -120,12 +120,13 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 
 
 ### Day 10: 
+1/12/2022 (christmas month)
 
-**Today's Tasks and Progress:**
+**Today's Tasks and Progress:** Tinkered with my CS50P Final Project | Mathworks MATLAB Fundamentals Course: Preprocessing Data
 
-**About:**
+**About:** Prettified the formatting of the comments and descriptions, added file path variables to the top of the file to prevent the filepaths from being hardcoded in; this makes it a lot easier to change them if needed.
 
-**Links:** []()
+**Links:** [cs50p-final-project](https://github.com/corey-richardson/cs50p-2022-final-project) | [matlab-fundamentals-course-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&)
 
 
 
