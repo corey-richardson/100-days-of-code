@@ -8,7 +8,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 
 ----
 
-**Shortcuts: [day-10](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-10) [day-20](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-20) [day-30](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-30) [day-40](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-40) [day-50](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-50) [day-60](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-60) [day-70](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-70) [day-80](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-80) [day-90](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-90) [day-100](https://github.com/corey-richardson/100DaysOfCode/blob/main/README.md#day-100)**
+**Shortcuts: [day-10](https://github.com/corey-richardson/100-days-of-code/blob/main/README.md#day-10) [day-20](https://github.com/corey-richardson/100-days-of-code/blob/main/README.md#day-20) [day-30](https://github.com/corey-richardson/100-days-of-code/blob/main/README.md#day-30) [day-40](https://github.com/corey-richardson/100-days-of-code/blob/main/README.md#day-40) [day-50](https://github.com/corey-richardson/100-days-of-code/blob/main/README.md#day-50) [day-60](https://github.com/corey-richardson/100-days-of-code/blob/main/README.md#day-60) [day-70](https://github.com/corey-richardson/100-days-of-code/blob/main/README.md#day-70) [day-80](https://github.com/corey-richardson/100-days-of-code/blob/main/README.md#day-80) [day-90](https://github.com/corey-richardson/100-days-of-code/blob/main/README.md#day-90) [day-100](https://github.com/corey-richardson/100-days-of-code/blob/main/README.md#day-100)**
 
 ----
 
@@ -46,7 +46,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 
 **About:** The script would open a new/empty text file to initialise it and then append "Day {number}:" to it. (EDITED TO ADD: Since then I have redone this for the more viewer friendly UI you can currently see, even so the new version uses the same process)
 
-**Links:** [day-1](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-1) | [read-me-setup](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-1/read-me-setup) | [signal-processing-onramp](https://matlabacademy.mathworks.com/progress/share/report.html?id=8364260d-109e-4b2b-ae6c-8fcd97650b07&) | [fourier-transforms-with-python](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-1/fourier-transform)
+**Links:** [day-1](https://github.com/corey-richardson/100-Days-Of-Code/tree/main/day-1) | [read-me-setup](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-1/read-me-setup) | [signal-processing-onramp](https://matlabacademy.mathworks.com/progress/share/report.html?id=8364260d-109e-4b2b-ae6c-8fcd97650b07&) | [fourier-transforms-with-python](https://github.com/corey-richardson/100-Days-Of-Code/tree/main/day-1/fourier-transform)
 
 
 
@@ -58,7 +58,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 
 **About:** Airline Analysis Project: Using Python's Pandas, Matplotlib and Seaborn packages to compare ticket price data and visualise with plots
 
-**Links:** [day-2](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-2) | [data-scientist-machine-learning-specialist-course](https://www.codecademy.com/learn/paths/data-science) | [airline-analysis](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-2/airline)
+**Links:** [day-2](https://github.com/corey-richardson/100-Days-Of-Code/tree/main/day-2) | [data-scientist-machine-learning-specialist-course](https://www.codecademy.com/learn/paths/data-science) | [airline-analysis](https://github.com/corey-richardson/100-Days-Of-Code/tree/main/day-2/airline)
 
 
 
@@ -70,7 +70,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 
 **About:** I have done Codecademy's C Course before however I've not looked at any C since then so wanted to refresh myself. After I complete this course I plan to look at CS50X to go more in depth with C. I also intend to take courses for C++ and C#.
 
-**Links:** [day-3](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-3) | [matlab-fundamentals-course-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&) | [hello-world](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-3/hello-world)
+**Links:** [day-3](https://github.com/corey-richardson/100-Days-Of-Code/tree/main/day-3) | [matlab-fundamentals-course-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&) | [hello-world](https://github.com/corey-richardson/100-Days-Of-Code/tree/main/day-3/hello-world)
 
 
 
@@ -82,7 +82,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 
 **About:** I learned how to generate a random number using C (python is so much better for this just saying). Whilst the number has not been guess, allow the user to input their guess and compare against the target value --> equal to, greater than or less than.
 
-**Links:** [day-4](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-4) | [cs50p-file-io-p-shirt-problem-set](https://cs50.harvard.edu/python/2022/psets/6/shirt/) | [cs50p-reg-ex-numb3rs-problem-set](https://cs50.harvard.edu/python/2022/psets/7/numb3rs/) | [dates-and-switches](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-4/dates-and-switches) | [number-guesser-game](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-4/number-guesser)
+**Links:** [day-4](https://github.com/corey-richardson/100-Days-Of-Code/tree/main/day-4) | [cs50p-file-io-p-shirt-problem-set](https://cs50.harvard.edu/python/2022/psets/6/shirt/) | [cs50p-reg-ex-numb3rs-problem-set](https://cs50.harvard.edu/python/2022/psets/7/numb3rs/) | [dates-and-switches](https://github.com/corey-richardson/100-Days-Of-Code/tree/main/day-4/dates-and-switches) | [number-guesser-game](https://github.com/corey-richardson/100-Days-Of-Code/tree/main/day-4/number-guesser)
 
 
 
@@ -94,7 +94,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 
 **About:**
 
-**Links:** [day-5](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-5) | [matlab-fundamentals-course-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&) | [micropython-pico-tutorial](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi_Pico/blob/master/Python/Python_Tutorial.pdf) | [button](https://github.com/corey-richardson/100DaysOfCode/blob/main/day-5/Pico/button.py) | [morse-code](https://github.com/corey-richardson/100DaysOfCode/blob/main/day-5/Pico/morse_code.py)
+**Links:** [day-5](https://github.com/corey-richardson/100-Days-Of-Code/tree/main/day-5) | [matlab-fundamentals-course-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&) | [micropython-pico-tutorial](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi_Pico/blob/master/Python/Python_Tutorial.pdf) | [button](https://github.com/corey-richardson/100-Days-Of-Code/blob/main/day-5/Pico/button.py) | [morse-code](https://github.com/corey-richardson/100-Days-Of-Code/blob/main/day-5/Pico/morse_code.py)
 
 
 
@@ -106,7 +106,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 
 **About:** Wrote a script using Python's Pandas Package which takes in a CSV file containing Amazon order history and calculates the total price.
 
-**Links:** [day-6](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-6)
+**Links:** [day-6](https://github.com/corey-richardson/100-Days-Of-Code/tree/main/day-6)
 
 
 
@@ -130,7 +130,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 
 **About:** I remade the "read me setup" script in order to provide a better UI / form factor for the text you are currently reading. Also added a second script,  "links.py", which automated the process of setting the shortcut links via iteration | The Fibonacci sequence script generates the sequence and also checks if the number generated contains all values between 0-9. If it does contain these then it gets appended to a list alongside it's term number / index.
 
-**Links:** [day-8](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-8) | [matlab-fundamentals-course-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&) | [read-me-setup](https://github.com/corey-richardson/100DaysOfCode/tree/main/day-1/read-me-setup) | [fibonacci-sequence-containing-all-nums](https://github.com/corey-richardson/100DaysOfCode/blob/main/day-8/fibonacci-sequence-containing-all-nums.py)
+**Links:** [day-8](https://github.com/corey-richardson/100-Days-Of-Code/tree/main/day-8) | [matlab-fundamentals-course-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&) | [read-me-setup](https://github.com/corey-richardson/100-Days-Of-Code/tree/main/day-1/read-me-setup) | [fibonacci-sequence-containing-all-nums](https://github.com/corey-richardson/100-Days-Of-Code/blob/main/day-8/fibonacci-sequence-containing-all-nums.py)
 
 
 
