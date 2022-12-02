@@ -174,6 +174,16 @@ project_name = project_name.group(0)
 ROOT = __file__.strip(project_name)
 DIRECTORY_NAME             = ROOT + "/files"
 ```
+Also, replaced an if-else statement with a switch/match statement which is more readable and cleaner.
+```
+  match play_again[0].lower():
+      case "y":
+          return True
+      case "n":
+          return False
+      case _:
+          print("Reprompt:")
+```
 **Links:** [cs50p-final-project-repository](https://github.com/corey-richardson/cs50p-2022-final-project) | [matlab-fundamentals-course-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&)
 
 
