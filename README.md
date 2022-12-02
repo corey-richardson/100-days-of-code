@@ -163,7 +163,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 ### Day 11:
 2/12/2022
 
-**Today's Tasks and Progress:** CS50P Final Project | Mathworks MATLAB Fundamentals Course: Programming Constructs, Increasing Automation with Functions, Troubleshooting Code
+**Today's Tasks and Progress:** CS50P Final Project | Mathworks MATLAB Fundamentals Course: Programming Constructs, Increasing Automation with Functions, Troubleshooting Code, Review Project II, Conclusion, COMPLETED :)
 
 **About:** Tried to regular expressions to find the absolute file path of the script so the created files always go to that location rather than the location of the terminal window which is often not right. Didn't work. :) Instead, run this command ```cd Week9/project``` to make sure the terminal is in the right location
 ```
@@ -184,7 +184,7 @@ Also, replaced an if-else statement with a switch/match statement which is more 
       case _:
           print("Reprompt:")
 ```
-**Links:** [cs50p-final-project-repository](https://github.com/corey-richardson/cs50p-2022-final-project) | [matlab-fundamentals-course-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&)
+**Links:** [cs50p-final-project-repository](https://github.com/corey-richardson/cs50p-2022-final-project) | [matlab-fundamentals-course-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&) | [matlab-fundamentals-course-certificate](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&)
 
 
 
