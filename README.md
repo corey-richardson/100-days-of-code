@@ -151,22 +151,30 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 ### Day 10: 
 1/12/2022 (christmas month)
 
-**Today's Tasks and Progress:** Tinkered with my CS50P Final Project | Mathworks MATLAB Fundamentals Course: Preprocessing Data | Codecademy Learn C Course: Pointers and Memory
+**Today's Tasks and Progress:** Tinkered with my CS50P Final Project | Mathworks MATLAB Fundamentals Course: Preprocessing Data | Codecademy Learn C Course: Pointers and Memory | CS50P Week 7 Regular Expressions: watch.py 
 
 **About:** Prettified the formatting of the comments and descriptions, added file path variables to the top of the file to prevent the filepaths from being hardcoded in; this makes it a lot easier to change them if needed. | Pointer make no sense.
 
-**Links:** [cs50p-final-project](https://github.com/corey-richardson/cs50p-2022-final-project) | [matlab-fundamentals-course-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&)
+**Links:** [cs50p-final-project](https://github.com/corey-richardson/cs50p-2022-final-project) | [matlab-fundamentals-course-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&) |  [watch-on-youtube-pset](https://cs50.harvard.edu/python/2022/psets/7/watch/)
 
 
 
 
-### Day 11: 
+### Day 11:
+2/12/2022
 
-**Today's Tasks and Progress:**
+**Today's Tasks and Progress:** CS50P Final Project | Mathworks MATLAB Fundamentals Course: Programming Constructs
 
-**About:**
-
-**Links:** []()
+**About:** Tried to regular expressions to find the absolute file path of the script so the created files always go to that location rather than the location of the terminal window which is often not right. Didn't work. :) Instead, run this command ```cd Week9/project``` to make sure the terminal is in the right location
+```
+# There was an attempt:
+import re
+project_name = re.search("/.[^/]+\.py$",__file__)
+project_name = project_name.group(0)
+ROOT = __file__.strip(project_name)
+DIRECTORY_NAME             = ROOT + "/files"
+```
+**Links:** [matlab-fundamentals-course-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&)
 
 
 
