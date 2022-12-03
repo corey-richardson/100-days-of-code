@@ -190,12 +190,13 @@ Also, replaced an if-else statement with a switch/match statement which is more 
 
 
 ### Day 12: 
+3/12/2022
 
-**Today's Tasks and Progress:**
+**Today's Tasks and Progress:** CS50P Regular Expressions: Working 9 to 5
 
-**About:**
+**About:** In a file called working.py, implement a function called convert that expects a str in either of the 12-hour formats below and returns the corresponding str in 24-hour format (i.e., 9:00 to 17:00). Expect that AM and PM will be capitalized (with no periods therein) and that there will be a space before each. Assume that these times are representative of actual times, not necessarily 9:00 AM and 5:00 PM specifically.
 
-**Links:** []()
+**Links:** [working-9-to-5](https://cs50.harvard.edu/python/2022/psets/7/working/)
 
 
 
