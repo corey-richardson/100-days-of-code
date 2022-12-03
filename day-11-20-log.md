@@ -30,7 +30,7 @@ Also, replaced an if-else statement with a switch/match statement which is more 
 ### Day 12: 
 3/12/2022
 
-**Today's Tasks and Progress:** CS50P Regular Expressions: Working 9 to 5 | README file setup update
+**Today's Tasks and Progress:** CS50P Regular Expressions: Working 9 to 5, Regular Um Expressions, Response Validation | README file setup update
 
 **About:** In a file called working.py, implement a function called convert that expects a str in either of the 12-hour formats below and returns the corresponding str in 24-hour format (i.e., 9:00 to 17:00). Expect that AM and PM will be capitalized (with no periods therein) and that there will be a space before each. Assume that these times are representative of actual times, not necessarily 9:00 AM and 5:00 PM specifically. | Seperated the logs into groups of 10 days to prevent it from being a 1000 line long block of text; this makes editing easier as time goes on and the file expands. This script setup markdown files titled "day-x-y-log.md" and filled each with the correct formatting. 
 ```
@@ -53,7 +53,7 @@ with open("links.txt","a") as links:
     to_write = f" - [days-{start}-{end}-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-{start}-{end}-log.md)\n\n"
     links.write(to_write)
 ```
-**Links:** [working-9-to-5](https://cs50.harvard.edu/python/2022/psets/7/working/) | [read-me-setup-seperated](https://github.com/corey-richardson/100-days-of-code/tree/main/day-1/read-me-setup/100-days-logs)
+**Links:** [working-9-to-5](https://cs50.harvard.edu/python/2022/psets/7/working/) | [regular-um-expressions](https://cs50.harvard.edu/python/2022/psets/7/um/) | [response-validation](https://cs50.harvard.edu/python/2022/psets/7/response/) | [read-me-setup-seperated](https://github.com/corey-richardson/100-days-of-code/tree/main/day-1/read-me-setup/100-days-logs)
 
 
 
