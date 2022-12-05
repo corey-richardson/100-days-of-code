@@ -1,5 +1,4 @@
-### Day 11:
-2/12/2022
+### Day 11: 2/12/2022
 
 **Today's Tasks and Progress:** CS50P Final Project | Mathworks MATLAB Fundamentals Course: Programming Constructs, Increasing Automation with Functions, Troubleshooting Code, Review Project II, Conclusion, COMPLETED :)
 
@@ -27,8 +26,7 @@ Also, replaced an if-else statement with a switch/match statement which is more 
 
 
 
-### Day 12: 
-3/12/2022
+### Day 12: 3/12/2022
 
 **Today's Tasks and Progress:** CS50P Regular Expressions: Working 9 to 5, Regular Um Expressions, Response Validation | README file setup update
 
@@ -56,11 +54,11 @@ with open("links.txt","a") as links:
 **Links:** [working-9-to-5](https://cs50.harvard.edu/python/2022/psets/7/working/) | [regular-um-expressions](https://cs50.harvard.edu/python/2022/psets/7/um/) | [response-validation](https://cs50.harvard.edu/python/2022/psets/7/response/) | [read-me-setup-seperated](https://github.com/corey-richardson/100-days-of-code/tree/main/day-1/read-me-setup/100-days-logs)
 
 
+MISSED: 4/12/2022
 
+### Day 13: 5/12/2022
 
-### Day 13: 
-
-**Today's Tasks and Progress:**
+**Today's Tasks and Progress:** Reviewing and understanding ( or at least attempting to understand) a company software which is literally older than me
 
 **About:**
 
