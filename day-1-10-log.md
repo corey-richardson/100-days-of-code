@@ -56,6 +56,7 @@
 **Links:** [day-5](https://github.com/corey-richardson/100-Days-Of-Code/tree/main/day-5) | [matlab-fundamentals-course-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=518eaaf3-1c34-46b0-9d24-7bfc242ba1a3&) | [micropython-pico-tutorial](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi_Pico/blob/master/Python/Python_Tutorial.pdf) | [button](https://github.com/corey-richardson/100-Days-Of-Code/blob/main/day-5/Pico/button.py) | [morse-code](https://github.com/corey-richardson/100-Days-Of-Code/blob/main/day-5/Pico/morse_code.py)
 
 
+MISSED: 26/11/2022
 
 
 ### Day 6: 
