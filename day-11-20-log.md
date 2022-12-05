@@ -58,7 +58,7 @@ MISSED: 4/12/2022
 
 ### Day 13: 5/12/2022
 
-**Today's Tasks and Progress:** Reviewing and understanding ( or at least attempting to understand) a company software which is literally older than me
+**Today's Tasks and Progress:** Reviewing and understanding (or at least attempting to understand) a company software which is literally older than me
 
 **About:**
 
