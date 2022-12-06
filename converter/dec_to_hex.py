@@ -33,26 +33,10 @@ def dec_to_hex(dec):
         if hex_bits[i] < 10:
             hex_bits[i] = str(hex_bits[i])
         else:
-            match hex_bits[i]:
-                case 10:
-                    hex_bits[i] = "A"
-                case 11:
-                    hex_bits[i] = "B"
-                case 12:
-                    hex_bits[i] = "C"
-                case 13:
-                    hex_bits[i] = "D"
-                case 14:
-                    hex_bits[i] = "E"
-                case 15:
-                    hex_bits[i] = "F"
-                
-                case _:
-                    import sys
-                    sys.exit("err in dec_to_hex case")
+            hex_digits = {10: "A", 11: "B", 12: "C",
+                          13: "D", 14: "E", 15: "F"}
+            
+            hex_bits[i] = hex_digits[hex_bits[i]]
     
     # return the list as a joined single string, removing any leading zerosa                
     return "".join(hex_bits).lstrip("0")
-
-                
-
