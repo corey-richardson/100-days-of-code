@@ -1,9 +1,12 @@
 def dec_to_bin(dec):   
 
+    if dec == 0 or dec == 1:
+        return dec
+
     # Get the number of bits needed to represent the decimal value in binary
     # This is done by finding log(n)/log(2) rounded up
     from math import ceil, log
-    bits = ceil( (log(dec) / log(2)) )
+    bits = ceil( (log(int(dec)) / log(2)) + 1)
 
     # using list comprehension create a list of zeros with the length of the number of bits
     # needed to represent the decimal values
@@ -19,13 +22,13 @@ def dec_to_bin(dec):
     # if dec - value falls below one then that binary_value is not a component and remains as 0
     for i, value in enumerate(binary_values):
         if dec - value >= 0:
-            dec = dec - value
+            dec -= value
             binary_bits[i] = 1
 
     # join the list into a single string and output
-    binary_converted = "".join(str(bit) for bit in binary_bits)      
-    print(binary_converted)
+    binary_converted = "".join(str(bit) for bit in binary_bits) 
     
+    return binary_converted.lstrip("0")
     
 # 2^n >= dec
 # log(2^n) = log(dec)
