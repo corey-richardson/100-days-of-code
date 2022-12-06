@@ -67,13 +67,13 @@ MISSED: 4/12/2022
 
 
 
-### Day 14: 
+### Day 14: 6/12/2022
 
-**Today's Tasks and Progress:**
+**Today's Tasks and Progress:** More investigations on company software | More work on the dec/hex/bin converter
 
-**About:**
+**About:** Fixed the previously made functions which were returning wrong values and added the dec_to_hex function.
 
-**Links:** []()
+**Links:** [converter](https://github.com/corey-richardson/100-days-of-code/tree/main/converter)
 
 
 
