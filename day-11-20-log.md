@@ -73,32 +73,32 @@ MISSED: 4/12/2022
 
 **About:** Fixed the previously made functions which were returning wrong values and added the dec_to_hex function.
 
-  Enter the value you want to convert: 255
-  Decimal --> Binary: 0b11111111       
-  Binary --> Decimal: 0
-  Decimal --> Hexadecimal: 0xFF        
-  Hexadecimal --> Decimal:
-  Binary --> Hexadecimal: 0x0
-  Hexadecimal --> Binary:
+    Enter the value you want to convert: 255
+    Decimal --> Binary: 0b11111111       
+    Binary --> Decimal: 0
+    Decimal --> Hexadecimal: 0xFF        
+    Hexadecimal --> Decimal:
+    Binary --> Hexadecimal: 0x0
+    Hexadecimal --> Binary:
 
-  Enter the value you want to convert: 256
-  Decimal --> Binary: 0b100000000      
-  Binary --> Decimal: 0
-  Decimal --> Hexadecimal: 0x100       
-  Hexadecimal --> Decimal:
-  Binary --> Hexadecimal: 0x0
-  Hexadecimal --> Binary:
+    Enter the value you want to convert: 256
+    Decimal --> Binary: 0b100000000      
+    Binary --> Decimal: 0
+    Decimal --> Hexadecimal: 0x100       
+    Hexadecimal --> Decimal:
+    Binary --> Hexadecimal: 0x0
+    Hexadecimal --> Binary:
 
-  Enter the value you want to convert: 11101011
-  Decimal --> Binary: 0b101010010110001101010011
-  Binary --> Decimal: 235
-  Decimal --> Hexadecimal: 0xA96353
-  Hexadecimal --> Decimal:
-  Binary --> Hexadecimal: 0xEB
-  Hexadecimal --> Binary:
+    Enter the value you want to convert: 11101011
+    Decimal --> Binary: 0b101010010110001101010011
+    Binary --> Decimal: 235
+    Decimal --> Hexadecimal: 0xA96353
+    Hexadecimal --> Decimal:
+    Binary --> Hexadecimal: 0xEB
+    Hexadecimal --> Binary:
 
-  Enter the value you want to convert: end
-  End
+    Enter the value you want to convert: end
+    End
 
 **Links:** [converter](https://github.com/corey-richardson/100-days-of-code/tree/main/converter)
 
