@@ -69,7 +69,7 @@ MISSED: 4/12/2022
 
 ### Day 14: 6/12/2022
 
-**Today's Tasks and Progress:** More investigations on company software | More work on the dec/hex/bin converter
+**Today's Tasks and Progress:** More investigations on company software | More work on the dec/hex/bin converter | CS50P Week 8 Object-Oriented Programming: Seasons of Love, Cookie Jar, CS50 Shirtificate
 
 **About:** Fixed the previously made functions which were returning wrong values and added the dec_to_hex function.
 
@@ -99,8 +99,11 @@ MISSED: 4/12/2022
 
     Enter the value you want to convert: end
     End
+    
+ CS50P Completed :)
+ All exercises have been completed, now all to do is present my final project which I have roped some friends into helping me on 10/12/22 :)
 
-**Links:** [converter](https://github.com/corey-richardson/100-days-of-code/tree/main/converter)
+**Links:** [converter](https://github.com/corey-richardson/100-days-of-code/tree/main/converter) | [seasons](https://cs50.harvard.edu/python/2022/psets/8/seasons/) | [cookie-jar](https://cs50.harvard.edu/python/2022/psets/8/jar/) | [cs50-shirtificate](https://cs50.harvard.edu/python/2022/psets/8/shirtificate/)
 
 
 
