@@ -110,7 +110,7 @@ MISSED: 4/12/2022
 
 ### Day 15: 7/12/2022
 
-**Today's Tasks and Progress:** Populate Test Input and Map Data Files | Hardware Testing | STARTED: Mathworks' MATLAB for Data Processing and Visualization Course: Getting Started
+**Today's Tasks and Progress:** Populate Test Input and Map Data Files | Hardware Testing | Test Data Analysis | STARTED: Mathworks' MATLAB for Data Processing and Visualization Course: Getting Started
 
 **About:**
 
