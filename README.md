@@ -22,7 +22,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 - [Mathworks' MATLAB Object-Oriented Programming Onramp](https://matlabacademy.mathworks.com/details/object-oriented-programming-onramp/oroop) ```completed```
 - [Mathworks' MATLAB Signal Processing Onramp](https://matlabacademy.mathworks.com/details/signal-processing-onramp/signalprocessing) ```completed```
 - [Mathworks' MATLAB Fundamentals Course](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe) ```completed```
-- [Mathworks' MATLAB for Data Processing and Visualization](https://matlabacademy.mathworks.com/details/matlab-for-data-processing-and-visualization/mlvi)
+- [Mathworks' MATLAB for Data Processing and Visualization](https://matlabacademy.mathworks.com/details/matlab-for-data-processing-and-visualization/mlvi) ```in progress```
 - [Mathworks' MATLAB Machine Learning Onramp](https://matlabacademy.mathworks.com/details/machine-learning-onramp/machinelearning)
 - [Mathworks' Machine Learning with MATLAB](https://matlabacademy.mathworks.com/details/machine-learning-with-matlab/mlml)
 - [freeCodeCamp.org's MATLAB Crash Course for Beginners](https://youtu.be/7f50sQYjNRA)
