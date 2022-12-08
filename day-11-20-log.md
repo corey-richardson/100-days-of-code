@@ -121,7 +121,7 @@ MISSED: 4/12/2022
 
 ### Day 16: 8/12/2022
 
-**Today's Tasks and Progress:** Finished Test Data Analysis | Software Investigation Task | CS50P Final Project | Mathworks' MATLAB for Data Processing and Visualization Course
+**Today's Tasks and Progress:** Finished Test Data Analysis | Software Investigation Task | CS50P Final Project | Mathworks' MATLAB for Data Processing and Visualization Course: Graphics Functions
 
 **About:**
 
