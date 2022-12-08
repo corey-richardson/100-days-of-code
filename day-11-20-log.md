@@ -60,8 +60,6 @@ MISSED: 4/12/2022
 
 **Today's Tasks and Progress:** Reviewing and understanding (or at least attempting to understand) a company software which is literally older than me | Experimenting with OpenAI's ChatGPT | Started working on a decimal/binary/hexadecimal converter
 
-**About:**
-
 **Links:** [open-gpt-suggested-code-for-read-me-setup](https://github.com/corey-richardson/100-days-of-code/blob/main/day-1/read-me-setup/read-me-setup.py) | [converter](https://github.com/corey-richardson/100-days-of-code/tree/main/converter)
 
 
@@ -112,8 +110,6 @@ MISSED: 4/12/2022
 
 **Today's Tasks and Progress:** Populate Test Input and Map Data Files | Hardware Testing | Test Data Analysis | STARTED: Mathworks' MATLAB for Data Processing and Visualization Course: Getting Started
 
-**About:**
-
 **Links:** [matlab-data-proc-and-viz-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=547e0b1f-be01-4f38-b862-3d2fb0e356bc&)
 
 
@@ -121,11 +117,9 @@ MISSED: 4/12/2022
 
 ### Day 16: 8/12/2022
 
-**Today's Tasks and Progress:** Finished Test Data Analysis | Software Investigation Task | CS50P Final Project | Mathworks' MATLAB for Data Processing and Visualization Course: Graphics Functions
+**Today's Tasks and Progress:** Finished Test Data Analysis | Software Investigation Task | CS50P Final Project | Mathworks' MATLAB for Data Processing and Visualization Course: Graphics Functions | STARTED CS50X: [Week 0 Previously Completed Months Ago] Week 1: Hello, Mario (Less), Mario (More), Cash. Also working through "Credit" but struggling (C sucks.)
 
-**About:**
-
-**Links:** [matlab-data-proc-and-viz-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=547e0b1f-be01-4f38-b862-3d2fb0e356bc&)
+**Links:** [matlab-data-proc-and-viz-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=547e0b1f-be01-4f38-b862-3d2fb0e356bc&) | [CS50X](https://cs50.harvard.edu/x/2022/) | [pset1-hello](https://cs50.harvard.edu/x/2022/psets/1/hello/) | [pset1-mario-less](https://cs50.harvard.edu/x/2022/psets/1/mario/less/) | [pset1-mario-more](https://cs50.harvard.edu/x/2022/psets/1/mario/more/) | [pset1-cash](https://cs50.harvard.edu/x/2022/psets/1/cash/) | [pset1-credit](https://cs50.harvard.edu/x/2022/psets/1/credit/)
 
 
 
