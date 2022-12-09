@@ -124,13 +124,13 @@ MISSED: 4/12/2022
 
 
 
-### Day 17: 
+### Day 17: 9/12/2022
 
-**Today's Tasks and Progress:**
+**Today's Tasks and Progress:** Mathworks' MATLAB for Data Processing and Visualization Course: Graphics Functions, Customizing Graphics Objects | Looking through to try and understand a company MATLAB script with no documentation. 
 
 **About:**
 
-**Links:** []()
+**Links:** [matlab-data-proc-and-viz-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=547e0b1f-be01-4f38-b862-3d2fb0e356bc&)
 
 
 
