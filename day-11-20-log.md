@@ -148,11 +148,11 @@ MISSED: 4/12/2022
 
 ### Day 19: 12/12/2022
 
-**Today's Tasks and Progress:** More attempts at PSET1 Credit, still incomplete :')
+**Today's Tasks and Progress:** More attempts at PSET1 Credit, still incomplete :') | Mathworks' MATLAB for Data Processing and Visualization Course: Customizing Graphics Objects
 
 **About:** Week 1 is complete but I want to do all the PSETs if possible, maybe I should come back to it down the line
 
-**Links:** [pset1-credit](https://cs50.harvard.edu/x/2022/psets/1/credit/)
+**Links:** [pset1-credit](https://cs50.harvard.edu/x/2022/psets/1/credit/) | [matlab-data-proc-and-viz-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=547e0b1f-be01-4f38-b862-3d2fb0e356bc&)
 
 
 
