@@ -159,8 +159,8 @@ MISSED: 4/12/2022
 
 ### Day 20: 13/12/2022
 
-**Today's Tasks and Progress:** RGB Normaliser, Plotter and Dataset Creator
+**Today's Tasks and Progress:** RGB Normaliser, Plotter and Dataset Creator | FlightRadar24 3D Flight Data Plotter
 
-**About:** RGB: Gets user to label the colour name of randomly generated and displayed RGB values to use in a ML colour predictor application. Also allows you to see which colours have been included in the dataset already using a 3d coloured scatter plot. 
+**About:** RGB: Gets user to label the colour name of randomly generated and displayed RGB values to use in a ML colour predictor application. Also allows you to see which colours have been included in the dataset already using a 3d coloured scatter plot. | Continuing on from this, I wrote a program which takes lat/long/alt/speed data from FlightRadar24 or any other csv source and plots a 3D scatter plot. The colour of the line changes depending on the speed at that time, and it can be set to animate rotation or in a more interactive mode.
 
-**Links:** [rgb](https://github.com/corey-richardson/100-days-of-code/tree/main/rgb)
+**Links:** [rgb](https://github.com/corey-richardson/100-days-of-code/tree/main/rgb) | [flight-data-plotter]( https://github.com/corey-richardson/100-days-of-code/tree/main/flight_data_plotter)
