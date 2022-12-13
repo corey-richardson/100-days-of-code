@@ -157,10 +157,10 @@ MISSED: 4/12/2022
 
 
 
-### Day 20: 
+### Day 20: 13/12/2022
 
-**Today's Tasks and Progress:**
+**Today's Tasks and Progress:** RGB Normaliser, Plotter and Dataset Creator
 
-**About:**
+**About:** RGB: Gets user to label the colour name of randomly generated and displayed RGB values to use in a ML colour predictor application. Also allows you to see which colours have been included in the dataset already using a 3d coloured scatter plot. 
 
-**Links:** []()
+**Links:** [rgb](https://github.com/corey-richardson/100-days-of-code/tree/main/rgb)
