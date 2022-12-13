@@ -39,4 +39,14 @@ ax.set_zlabel("Blue")
 
 # output the unique "labels" and their frequencies
 print(data.label.value_counts())
-plt.show()
+
+plt.show(block=False)
+
+while True: # can only be quit with keyboard interrupts, not ideal
+    import itertools as it
+    for i in it.chain(range(-180, 180), range(180, 180)):
+        # loops -180 --> 180 --> -180...
+        # changes view angle to rotation animation
+        ax.view_init(elev=20, azim=i, roll=0)
+        plt.pause(0.01) # delay
+        plt.draw() # update figure
