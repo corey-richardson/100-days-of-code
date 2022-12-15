@@ -1,10 +1,6 @@
-### Day 21: 
+### Day 21: 14/12/2022
 
-**Today's Tasks and Progress:**
-
-**About:**
-
-**Links:** []()
+**Today's Tasks and Progress:** Software Investigation and Hardware Testing
 
 
 
