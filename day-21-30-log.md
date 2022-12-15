@@ -5,13 +5,13 @@
 
 
 
-### Day 22: 
+### Day 22: 15/22/2022
 
-**Today's Tasks and Progress:**
+**Today's Tasks and Progress:** STARTED: Codecademy's C++ Course | Created repositories for my "learning" notes, cheatsheets and projects 
 
 **About:**
 
-**Links:** []()
+**Links:** [learning-c](https://github.com/corey-richardson/learning-c) | [learning-c++](https://github.com/corey-richardson/learning-cpp) | [learning-matlab](https://github.com/corey-richardson/learning-matlab)
 
 
 
