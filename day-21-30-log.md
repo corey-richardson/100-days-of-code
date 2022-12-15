@@ -11,7 +11,7 @@
 
 **About:**
 
-**Links:** [learning-c](https://github.com/corey-richardson/learning-c) | [learning-c++](https://github.com/corey-richardson/learning-cpp) | [learning-matlab](https://github.com/corey-richardson/learning-matlab)
+**Links:** [learning-c](https://github.com/corey-richardson/learning-c) | [learning-c++](https://github.com/corey-richardson/learning-cpp) | [learning-matlab](https://github.com/corey-richardson/learning-matlab) | [learning-python](https://github.com/corey-richardson/learning-python)
 
 
 
