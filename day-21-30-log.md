@@ -16,13 +16,13 @@
 
 
 
-### Day 23: 
+### Day 23: 16/22/2022
 
-**Today's Tasks and Progress:**
+**Today's Tasks and Progress:** Codecademy: Learn C++ Course
 
-**About:**
+**About:** Conditionals and Logic, Loops, Vector, Functions
 
-**Links:** []()
+**Links:** [learning-cpp](https://github.com/corey-richardson/learning-cpp)
 
 
 
