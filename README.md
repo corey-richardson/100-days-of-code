@@ -6,7 +6,31 @@ Started: 2022-11-21 | Optimal End: 2023-03-01 | Actual End: ___
 
 corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson)
 
-----
+---
+
+## Logbook
+
+ - [days-1-10-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-1-10-log.md)
+
+ - [days-11-20-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-11-20-log.md)
+
+ - [days-21-30-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-21-30-log.md)
+
+ - [days-31-40-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-31-40-log.md)
+
+ - [days-41-50-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-41-50-log.md)
+
+ - [days-51-60-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-51-60-log.md)
+
+ - [days-61-70-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-61-70-log.md)
+
+ - [days-71-80-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-71-80-log.md)
+
+ - [days-81-90-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-81-90-log.md)
+
+ - [days-91-100-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-91-100-log.md)
+
+---
 
 ## Courses Links TODO
 
@@ -33,33 +57,8 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 - [Codecademy's Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus) ```in progress```
 - [Codecademy's Learn C++ for Programmers](https://www.codecademy.com/learn/c-plus-plus-for-programmers)
 - [Codecademy's Learn C#](https://www.codecademy.com/learn/learn-c-sharp)
-
-
-----
-
-## Logbook
-
- - [days-1-10-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-1-10-log.md)
-
- - [days-11-20-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-11-20-log.md)
-
- - [days-21-30-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-21-30-log.md)
-
- - [days-31-40-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-31-40-log.md)
-
- - [days-41-50-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-41-50-log.md)
-
- - [days-51-60-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-51-60-log.md)
-
- - [days-61-70-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-61-70-log.md)
-
- - [days-71-80-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-71-80-log.md)
-
- - [days-81-90-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-81-90-log.md)
-
- - [days-91-100-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-91-100-log.md)
  
- ----
+ ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corey-richardson)](https://github.com/anuraghazra/github-readme-stats)
 
