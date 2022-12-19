@@ -8,12 +8,6 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 
 ----
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corey-richardson)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corey-richardson)](https://github.com/anuraghazra/github-readme-stats)
-
-----
-
 ## Courses Links TODO
 
 **Python**
@@ -34,9 +28,9 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 - [freeCodeCamp.org's MATLAB Crash Course for Beginners](https://youtu.be/7f50sQYjNRA)
 
 **C / C++ / C#**
-- [CS50X: CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) Includes C, Python, SQL, HTML, CSS, Javascript, Flask
+- [CS50X: CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) Includes C, Python, SQL, HTML, CSS, Javascript, Flask ```in progress```
 - [Codecademy's Learn C](https://www.codecademy.com/learn/learn-c) ```in progress``` ```previously completed```
-- [Codecademy's Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
+- [Codecademy's Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus) ```in progress```
 - [Codecademy's Learn C++ for Programmers](https://www.codecademy.com/learn/c-plus-plus-for-programmers)
 - [Codecademy's Learn C#](https://www.codecademy.com/learn/learn-c-sharp)
 
@@ -64,3 +58,10 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
  - [days-81-90-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-81-90-log.md)
 
  - [days-91-100-log](https://github.com/corey-richardson/100-days-of-code/blob/main/day-91-100-log.md)
+ 
+ ----
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corey-richardson)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corey-richardson)](https://github.com/anuraghazra/github-readme-stats)
+
