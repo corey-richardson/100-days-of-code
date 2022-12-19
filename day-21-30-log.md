@@ -27,13 +27,13 @@
 
 
 
-### Day 24: 
+### Day 24: 19/22/2022
 
-**Today's Tasks and Progress:**
+**Today's Tasks and Progress:** Codecademy's Learn C++ Course
 
-**About:**
+**About:** Functions
 
-**Links:** []()
+**Links:** [learning-cpp](https://github.com/corey-richardson/learning-cpp)
 
 
 
