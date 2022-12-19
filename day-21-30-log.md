@@ -29,9 +29,9 @@
 
 ### Day 24: 19/22/2022
 
-**Today's Tasks and Progress:** Codecademy's Learn C++ Course
+**Today's Tasks and Progress:** Codecademy's Learn C++ Course | Company MATLAB Project
 
-**About:** Functions
+**About:** Functions, Classes and Object | Top secret ;)
 
 **Links:** [learning-cpp](https://github.com/corey-richardson/learning-cpp)
 
