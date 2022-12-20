@@ -38,9 +38,9 @@
 
 
 
-### Day 25: 
+### Day 25: 20/12/2022 [1/4 done!]
 
-**Today's Tasks and Progress:**
+**Today's Tasks and Progress:** Company MATLAB Project
 
 **About:**
 
