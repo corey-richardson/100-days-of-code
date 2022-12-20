@@ -44,7 +44,7 @@
 
 **About:** References and Pointers
 
-**Links:** [learning-matlab](https://github.com/corey-richardson/learning-matlab) | [matlab-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=547e0b1f-be01-4f38-b862-3d2fb0e356bc&) | [learning-cpp](https://github.com/corey-richardson/learning-cpp) | [certificate](https://www.codecademy.com/profiles/corey-richardson/certificates/b74a2390dfc4127fa5d43fe147425ad0) | [codechef-solution-box](https://github.com/corey-richardson/solution-box) <-- keeping this private until it has more in it so it doesnt look so sad :)
+**Links:** [learning-matlab](https://github.com/corey-richardson/learning-matlab) | [matlab-progress-report](https://matlabacademy.mathworks.com/progress/share/report.html?id=547e0b1f-be01-4f38-b862-3d2fb0e356bc&) | [learning-cpp](https://github.com/corey-richardson/learning-cpp) | [certificate](https://www.codecademy.com/profiles/corey-richardson/certificates/b74a2390dfc4127fa5d43fe147425ad0) | [codechef-solution-box](https://github.com/corey-richardson/solution-box)
 
 
 
