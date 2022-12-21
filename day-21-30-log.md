@@ -53,7 +53,7 @@
 
 **Today's Tasks and Progress:** Completed a few CodeChef challenges
 
-**About:** 421 Find Remainder; cpp, 455 Sum of Digits; cpp, py |
+**About:** 421 Find Remainder (cpp), 455 Sum of Digits (cpp, py), 588 Reverse the Number (cpp, py) |
 
 **Links:** [codechef-solution-box](https://github.com/corey-richardson/solution-box)
 
