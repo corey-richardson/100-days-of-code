@@ -56,6 +56,9 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 - [Codecademy's Learn C](https://www.codecademy.com/learn/learn-c) ```in progress``` ```previously completed```
 - [Codecademy's Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus) ```completed```
 - [Codecademy's Learn C#](https://www.codecademy.com/learn/learn-c-sharp)
+
+**Practice**
+- [CodeChef](https://www.codechef.com/users/crichardson)
  
  ---
 
