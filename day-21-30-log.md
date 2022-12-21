@@ -49,13 +49,13 @@
 
 
 
-### Day 26: 
+### Day 26: 21/12/2022
 
-**Today's Tasks and Progress:**
+**Today's Tasks and Progress:** Completed a few CodeChef challenges
 
-**About:**
+**About:** 421 Find Remainder; cpp, 455 Sum of Digits; cpp, py |
 
-**Links:** []()
+**Links:** [codechef-solution-box](https://github.com/corey-richardson/solution-box)
 
 
 
