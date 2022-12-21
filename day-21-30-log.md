@@ -51,11 +51,11 @@
 
 ### Day 26: 21/12/2022
 
-**Today's Tasks and Progress:** Completed a few CodeChef challenges
+**Today's Tasks and Progress:** Completed a few CodeChef challenges | Codecademy's Learn C Course
 
-**About:** 421 Find Remainder (cpp), 455 Sum of Digits (cpp, py), 588 Reverse the Number (cpp, py) |
+**About:** 421 Find Remainder (cpp), 455 Sum of Digits (cpp, py), 588 Reverse the Number (cpp, py) | Functions
 
-**Links:** [codechef-solution-box](https://github.com/corey-richardson/solution-box)
+**Links:** [codechef-solution-box](https://github.com/corey-richardson/solution-box) | [learning-c](https://github.com/corey-richardson/learning-c)
 
 
 
