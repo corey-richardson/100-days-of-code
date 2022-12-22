@@ -60,13 +60,13 @@
 
 
 
-### Day 27: 
+### Day 27: 22/12/2022
 
-**Today's Tasks and Progress:**
+**Today's Tasks and Progress:** UK Population Intersect
 
 **About:**
 
-**Links:** []()
+**Links:** [population](https://github.com/corey-richardson/100-days-of-code/uk_pop.py)
 
 
 
