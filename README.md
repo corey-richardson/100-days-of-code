@@ -35,7 +35,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 ## Courses Links TODO
 
 **Python**
-- [CS50P: CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) ```in progress```
+- [CS50P: CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) ```completed```
 - [CS50: Python for Data Science](https://video.cs50.io/JE81X23PxiA?start=32&end=1980) 
 - [Codeacademy's Learn Intermediate Python 3](https://www.codecademy.com/learn/learn-intermediate-python-3) ```in progress```
 - [Codecademy's Data Scientist: Machine Learning Specialist Career Path](https://www.codecademy.com/learn/paths/data-science) ```in progress```
