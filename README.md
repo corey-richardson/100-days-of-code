@@ -55,7 +55,7 @@ corey-richardson | [linktr.ee/coreyrichardson](https://linktr.ee/coreyrichardson
 - [CS50X: CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) Includes C, Python, SQL, HTML, CSS, Javascript, Flask ```in progress```
 - [Codecademy's Learn C](https://www.codecademy.com/learn/learn-c) ```in progress``` ```previously completed```
 - [Codecademy's Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus) ```completed```
-- [Codecademy's Learn C#](https://www.codecademy.com/learn/learn-c-sharp)
+- [Codecademy's Learn C#](https://www.codecademy.com/learn/learn-c-sharp) ```in progress```
 
 **Practice**
 - [CodeChef](https://www.codechef.com/users/crichardson)
