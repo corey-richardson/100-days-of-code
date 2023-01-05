@@ -70,14 +70,17 @@
 
 
 
+[CHRISTMAS SHUTDOWN 23/12/2022 - 04/12/2022]
 
-### Day 28: 
 
-**Today's Tasks and Progress:**
 
-**About:**
+### Day 28: 05/01/22 "happy" new year
 
-**Links:** []()
+**Today's Tasks and Progress:** [STARTED] Codecademy's Learn C# Course
+
+**About:** C# is designed to be a high-level language. This means it takes care of a lot of the code you would have to write in other languages like Java and C++. Plus, it provides you with libraries that make writing code quicker and easier.
+
+**Links:** [learning-c-sharp](https://github.com/corey-richardson/learning-c-sharp)
 
 
 
