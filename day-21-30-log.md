@@ -74,9 +74,9 @@
 
 
 
-### Day 28: 05/01/22 "happy" new year
+### Day 28: 05/01/23 "happy" new year
 
-**Today's Tasks and Progress:** [STARTED] Codecademy's Learn C# Course
+**Today's Tasks and Progress:** [STARTED] Codecademy's Learn C# Course: Hello World, Data Types and  Variables
 
 **About:** C# is designed to be a high-level language. This means it takes care of a lot of the code you would have to write in other languages like Java and C++. Plus, it provides you with libraries that make writing code quicker and easier.
 
@@ -85,13 +85,13 @@
 
 
 
-### Day 29: 
+### Day 29: 06/01/23
 
-**Today's Tasks and Progress:**
+**Today's Tasks and Progress:** Codecademy's Learn C# Course: Logic and Conditionals
 
-**About:**
+**About:** If, Else if, Else statements, Switch statements, Ternary Operators, Comparison operators, Logic, "Password Checker"
 
-**Links:** []()
+**Links:** [learning-c-sharp](https://github.com/corey-richardson/learning-c-sharp)
 
 
 
