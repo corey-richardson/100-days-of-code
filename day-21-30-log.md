@@ -100,7 +100,7 @@
 
 **Today's Tasks and Progress:** Learning C#: Methods
 
-**About:** Method Calls and Input | Method Output
+**About:** Method Calls and Input, Method Output, "Architect Arithmetic", "Exquisite Corpses", Alternate Expressions
 
 **Links:** [learning-c-sharp](https://github.com/corey-richardson/learning-c-sharp)
 
