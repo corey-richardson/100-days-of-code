@@ -100,7 +100,7 @@
 
 **Today's Tasks and Progress:** Learning C#: Methods
 
-**About:** Method Calls and Input
+**About:** Method Calls and Input | Method Output
 
 **Links:** [learning-c-sharp](https://github.com/corey-richardson/learning-c-sharp)
 
