@@ -96,7 +96,7 @@
 
 
 
-### Day 30: 09/01/2023
+### Day 30: 09/01/23
 
 **Today's Tasks and Progress:** Learning C#: Methods
 
