@@ -96,13 +96,13 @@
 
 
 
-### Day 30: 
+### Day 30: 09/01/2023
 
-**Today's Tasks and Progress:**
+**Today's Tasks and Progress:** Learning C#: Methods
 
-**About:**
+**About:** Method Calls and Input
 
-**Links:** []()
+**Links:** [learning-c-sharp](https://github.com/corey-richardson/learning-c-sharp)
 
 
 
