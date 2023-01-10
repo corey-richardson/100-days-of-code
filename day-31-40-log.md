@@ -1,8 +1,8 @@
-### Day 31: 
+### Day 31: 10/01/23
 
-**Today's Tasks and Progress:**
+**Today's Tasks and Progress:** Codecademy's Learn C# Course: Methods, Arrays and Loops
 
-**About:**
+**About:** Alternate Expressions | Arrays
 
 **Links:** []()
 
