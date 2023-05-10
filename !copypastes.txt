@@ -1,0 +1,34 @@
+Software Engineering Placement at an Aerospace Company:
+
+[learning](https://github.com/corey-richardson/learning)
+
+[learning-python](https://github.com/corey-richardson/learning/tree/main/learning-python)
+[learning-pico](https://github.com/corey-richardson/learning/tree/main/learning-pico) 
+
+[learning-c](https://github.com/corey-richardson/learning/tree/main/learning-c) 
+[learning-c++](https://github.com/corey-richardson/learning/tree/main/learning-cpp) 
+
+[learning-c-sharp](https://github.com/corey-richardson/learning/tree/main/learning-c-sharp)
+[learning-aspnet](https://github.com/corey-richardson/learning/tree/main/learning-aspnet)
+
+[learning-matlab](https://github.com/corey-richardson/learning/tree/main/learning-matlab)
+
+[learning-html](https://github.com/corey-richardson/learning/tree/main/learning-frontend/learning-html)
+[learning-css](https://github.com/corey-richardson/learning/tree/main/learning-frontend/learning-css)
+[learning-javascript](https://github.com/corey-richardson/learning/tree/main/learning-frontend/learning-javascript)
+[learning-frontend](https://github.com/corey-richardson/learning/tree/main/learning-frontend)
+
+[learning-softeng](https://github.com/corey-richardson/learning/tree/main/learning-softeng)
+[learning-machine-learning](https://github.com/corey-richardson/learning/tree/main/learning-machine-learning)
+
+[learning-compsci](https://github.com/corey-richardson/learning/tree/main/learning-compsci)
+Codecademy's Computer Science Career Path:
+CS102 - Data Structures and Algorithms
+CS103 - Databases
+CS104 - Computer Architecture
+CS105 - Discrete Maths
+
+Codecademy's Learn Advanced Python 3:
+Codecademy's Learn Software Engineering for Data Scientists Skill Path:
+Codecademy's Introduction to Front-End Engineer Career Path:
+Codecademy's Learn Machine Learning Skill Path:
